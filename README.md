@@ -30,3 +30,4 @@ int main()
     ht = three(14, 2);
     printf("\n F = %d, G = %d, H = %d", a, b, ht);
 }
+//this is nasrullah khan new changes 
